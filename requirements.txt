@@ -1,4 +1,4 @@
--f https://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl
+-f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
 torch
 numpy==1.16.0rc1
 fastai
